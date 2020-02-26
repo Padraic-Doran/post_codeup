@@ -7,3 +7,12 @@ For those wondering, I took some time off to address my mental and physical heal
 #####Python
 Learned how to use common features of pyPDF and rewrote from a lesson some functions that merge, split, and rotate pages of a pdf. 
 
+## 2/26/2020
+
+####Python
+
+Did a quick review of iterations through dictionaries. Learned about the chainmap function and dictionary comprehensions. Worked through exercises that came with the lesson and found dictionary exercises for further work.
+
+####TrailHead
+
+Worked through lesson for admin certification.
